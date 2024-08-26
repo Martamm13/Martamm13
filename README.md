@@ -1,6 +1,6 @@
 # Hi, I’m Marta! Nice to meet you. 👩‍💻
 
-Tech professional specializing in quality checks and process improvements for Design Teams. I’m curious about technology and passionate about making systems and tools work better. I enjoy exploring new ideas and learning along the way. 📊💡 #Systems #Tools #Data
+Tech professional working on quality checks and process improvements for Design Teams. I’m curious about technology and passionate about making systems and tools work better. I enjoy exploring new ideas and learning along the way. 📊💡 #Systems #Tools #Data
 
 ## Skills 💼
 - **Technical Professional Skills:** CAD | VISIO | QGIS | GComms | Excel 

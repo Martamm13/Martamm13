@@ -22,6 +22,6 @@ As a tech professional passionate about innovation, I focus on quality checks an
 - **Master's Degree with a Specialization in Public Sector** | Jagiellonian University in Krakow, PL | Jun. 2010
 - **Finance Technician** | Secondary School of Economy, PL | March. 2004
 
-If you have any feedback or questions, feel free DM me on [LinkedIn ](https://www.linkedin.com/in/marta-drag-a110b5167).
+If you have any questions, feel free DM me on [LinkedIn ](https://www.linkedin.com/in/marta-drag-a110b5167).
 
 Catch you on the next big project! 🚀📊

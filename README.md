@@ -3,10 +3,10 @@ I’m a GIS Technician with experience in network planning, data analysis, and t
 Technical Skills: CAD | Visio | GIS | GComms | Excel
 Development & Data Analysis: Learning and applying skills in automation, scripting, and data processing
 
-Certifications & Training
-Google Data Analytics | Coursera | 2024
-AutoCAD Level II | Autodesk Training Centre | 2023
-GIS & Spatial Data | University of Oxford | 2023
-S6 PIA Duct Survey | S5 PIA Pole Survey | Safety Certifications (SA001, SA002)
-Procurement & Supply Operations | CIPS | 2021
-
+**Certifications & Training:** 
+Coursera (2024): Google Data Analytics | 
+UAutodesk Training Centre (2023): AutoCAD Level II | 
+University of Oxford (2023):Introducing Mapping, Spatial Data & GIS | 
+ATS Group (2021): SA001 Safety Overhead, SA002 Safety Underground | 
+CABWI (2022): Signing, lighting and guarding |
+CIPS Chartered Institute of Procurement & Supply (2021): CIPS Level 2 Certificate in Procurement and Supply Operations |

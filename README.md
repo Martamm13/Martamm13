@@ -3,7 +3,7 @@ I’m a GIS Technician with experience in network planning, data analysis, and t
 Technical Skills: CAD | Visio | GIS | GComms | Excel
 Development & Data Analysis: Learning and applying skills in automation, scripting, and data processing
 
-Certifications & Training 📜
+Certifications & Training
 Google Data Analytics | Coursera | 2024
 AutoCAD Level II | Autodesk Training Centre | 2023
 GIS & Spatial Data | University of Oxford | 2023

@@ -1,12 +1,1 @@
-I’m a GIS Technician with experience in network planning, data analysis, and tools development. I focus on improving workflows, automating processes, and ensuring data quality in design and infrastructure projects. I enjoy working with CAD, GIS, and Visio while exploring development and data analysis to enhance efficiency and decision-making.
-
-Technical Skills: CAD | Visio | GIS | GComms | Excel
-Development & Data Analysis: Learning and applying skills in automation, scripting, and data processing.
-
-**Certifications & Training:** <br>
-Coursera (2024): Google Data Analytics <br>
-Autodesk Training Centre (2023): AutoCAD Level II <br>
-University of Oxford (2023): Introducing Mapping, Spatial Data & GIS <br>
-ATS Group (2021): SA001 Safety Overhead, SA002 Safety Underground <br>
-CABWI (2022): Signing, Lighting, and Guarding <br>
-CIPS Chartered Institute of Procurement & Supply (2021): CIPS Level 2 Certificate in Procurement and Supply Operations
+I’m a GIS Technician with experience in network planning, data analysis, and tools development. I focus on improving workflows, automating tasks, and keeping data clean and reliable in design projects. I enjoy working with CAD, GIS, and Visio, and I'm always learning more about automation and data to make work more efficient.

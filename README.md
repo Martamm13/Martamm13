@@ -1,1 +1,1 @@
-I’m a GIS Technician with experience in network planning, data analysis, and tools development. I focus on improving workflows, automating tasks, and keeping data clean and reliable in design projects. I enjoy working with CAD, GIS, and Visio, and I'm always learning more about automation and data to make work more efficient.
+
